@@ -1,0 +1,6 @@
+*.odt
+*.pdf
+*.zip
+*.ipynb
+*.csv
+src/__pycache__/*
